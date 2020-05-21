@@ -54,7 +54,8 @@ public class ChaptersActivity extends AppCompatActivity {
         fetchChapter(Static.mangaSelected);
     }
 
-    private void fetchChapter(Manga mangaSelected) {
+    private void fetchChapter(Manga mangaSelected)
+    {
         //List<Chapters> chapterList=mangaSelected.getChapters();
         Static.chapterList = mangaSelected.getChapters();
         recycler_chapter.setAdapter(new MyChapterAdapter(this, mangaSelected.getChapters()));
