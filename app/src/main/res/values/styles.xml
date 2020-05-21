@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SplashTheme" parent ="AppTheme">
+        <item name="android:windowBackground">@drawable/manga_logo_spash</item>
+
+    </style>
+
+    <style name="exampleToast">
+        <item name="colorBackground">@color/colorGradient</item>
+        <item name="textColor">@color/red</item>
+        <item name="strokeColor">@color/colorGradient2</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">15dp</item>
+
+    </style>
+
+    <style name="exampleToastError">
+        <item name="colorBackground">@color/colorGradient</item>
+        <item name="textColor">@color/red</item>
+        <item name="strokeColor">@color/colorGradient2</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">15dp</item>
+
+    </style>
+</resources>

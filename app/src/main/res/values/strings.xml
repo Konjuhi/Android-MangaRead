@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MangaApp</string>
+    <string name="read_the_best_manga">Read The Best Manga</string>
+    <string name="sign_in_into_your_account">Sign In Into Your Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="have_an_account_sign_in">Have an account? Sign in</string>
+    <string name="new_manga_0">NEW MANGA (0)</string>
+    <string name="manga">Manga</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087896680396",
+    "firebase_url": "https://mangareader-1e01d.firebaseio.com",
+    "project_id": "mangareader-1e01d",
+    "storage_bucket": "mangareader-1e01d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087896680396:android:ef9601372b1cbf1bde8f69",
+        "android_client_info": {
+          "package_name": "com.example.mangareader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087896680396-su292sld2ckok3lslqvaeup8qrg196v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mangareader",
+            "certificate_hash": "afbc64073544541e5f626f3ea68bb1d33015c856"
+          }
+        },
+        {
+          "client_id": "1087896680396-d6p46abrj5m3nbe7ti9pud1u5ujuj98q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwHXnAk4tMmQLc-7Elw1eF-nMVyiJ2-hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087896680396-d6p46abrj5m3nbe7ti9pud1u5ujuj98q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
