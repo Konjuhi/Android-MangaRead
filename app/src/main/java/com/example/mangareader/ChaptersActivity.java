@@ -49,6 +49,8 @@ public class ChaptersActivity extends AppCompatActivity {
             public void onClick(View v) {
                 finish();
             }
+
+            
         });
 
         fetchChapter(Static.mangaSelected);
