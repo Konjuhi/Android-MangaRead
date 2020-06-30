@@ -50,7 +50,7 @@ public class ChaptersActivity extends AppCompatActivity {
                 finish();
             }
 
-            
+
         });
 
         fetchChapter(Static.mangaSelected);
@@ -58,7 +58,6 @@ public class ChaptersActivity extends AppCompatActivity {
 
     private void fetchChapter(Manga mangaSelected)
     {
-        //List<Chapters> chapterList=mangaSelected.getChapters();
         Static.chapterList = mangaSelected.getChapters();
         recycler_chapter.setAdapter(new MyChapterAdapter(this, mangaSelected.getChapters()));
         txt_chapter_name.setText(new StringBuilder("CHAPTERS (").append(mangaSelected.getChapters().size()).append(")"));

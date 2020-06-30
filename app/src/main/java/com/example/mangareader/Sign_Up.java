@@ -22,7 +22,8 @@ import java.util.regex.Pattern;
 
 public class Sign_Up extends AppCompatActivity {
 
-    private static final Pattern PASSWORD_PATERN = Pattern.compile("^(?=.*[0-9])"  + "(?=.*[a-z])" + "(?=.*[A-Z])" + "(?=\\S+$)" + ".{4,}$");
+    private static final Pattern PASSWORD_PATERN = Pattern.compile("^(?=.*[0-9])"  + "(?=.*[a-z])" +
+            "(?=.*[A-Z])" + "(?=\\S+$)" + ".{4,}$");
 
     private ImageView imageView;
     private TextView textView3;

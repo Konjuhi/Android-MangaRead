@@ -12,9 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".Notes.NoteEditor"></activity>
-        <activity android:name=".Notes.Notes_activity" />
-        <activity android:name=".FilterSearchActivity" />
+        <activity android:name=".Notification.AlarmNotification">
+
+        </activity>
+        <activity android:name=".Notes.NoteEditor" />
+        <activity android:name=".Notes.Notes_activity" >
+        </activity>
         <activity android:name=".ReadMangaActivity" />
         <activity android:name=".AsyncTask.AsynTask" />
         <activity android:name=".ChaptersActivity" />
@@ -30,6 +33,7 @@
         <activity android:name=".Sign_Up" />
         <activity android:name=".Sign_In" />
         <activity android:name=".MainActivity" />
+        <receiver android:name=".Notification.AlarmNotificationReceiver"/>
     </application>
 
 </manifest>
