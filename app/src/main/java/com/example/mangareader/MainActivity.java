@@ -85,6 +85,8 @@ public class MainActivity extends AppCompatActivity implements  IMangaLoadDone {
 
         loadManga();
 
+
+
         recyclerView_manga = (RecyclerView)findViewById(R.id.recycler_manga);
         recyclerView_manga.setLayoutManager(new LinearLayoutManager(this));
 
