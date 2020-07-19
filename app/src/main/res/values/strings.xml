@@ -12,4 +12,16 @@
     <string name="have_an_account_sign_in">Have an account? Sign in</string>
     <string name="new_manga_0">NEW MANGA (0)</string>
     <string name="manga">Manga</string>
+    <string name="chapter">CHAPTERS (</string>
+    <string name="newmanga">NEW MANGA(</string>
+    <string name="snackbar">Snackbar action clicked</string>
+    <string name="allmanga">All NEW MANGA\'S IN THIS PAGE</string>
+    <string name="mangaref">Manga</string>
+    <string name="succes">Successfully Sign In</string>
+    <string name="empty">This field cannot be empty</string>
+    <string name="pewrong">Password or Email is Wrong</string>
+    <string name="noregister">Not Registered</string>
+    <string name="registersucces">Successfully Registerd</string>
+    <string name="entervalidemail">Please enter a valid Email</string>
+    <string name="weakpass">Password To Weak!</string>
 </resources>

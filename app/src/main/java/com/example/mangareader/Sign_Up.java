@@ -89,9 +89,9 @@ public class Sign_Up extends AppCompatActivity {
 
                     long res = objDb.insert("SIGNUP", null, cv);
                     if (res == -1) {
-                        StyleableToast.makeText(getApplicationContext(), "Not Registered", R.style.exampleToastError).show();
+                        StyleableToast.makeText(getApplicationContext(), getString(R.string.noregister), R.style.exampleToastError).show();
                     } else {
-                        StyleableToast.makeText(getApplicationContext(), "Successfully Registerd", R.style.exampleToast).show();
+                        StyleableToast.makeText(getApplicationContext(), getString(R.string.registersucces), R.style.exampleToast).show();
                         Intent intent = new Intent(Sign_Up.this,Sign_In.class);
                         startActivity(intent);
                     }
@@ -104,10 +104,10 @@ public class Sign_Up extends AppCompatActivity {
     private boolean checkEmail() {
         String _email = email.getText().toString().trim();
         if (_email.isEmpty()) {
-            email.setError("Fields cannot be empty!");
+            email.setError(getString(R.string.empty));
             return false;
         } else if (!Patterns.EMAIL_ADDRESS.matcher(_email).matches()) {
-            email.setError("Please enter a valid Email");
+            email.setError(getString(R.string.entervalidemail));
             return false;
         }else
             email.setError(null);
@@ -117,10 +117,10 @@ public class Sign_Up extends AppCompatActivity {
     private boolean checkPassword() {
         String _password = password.getText().toString().trim();
         if (_password.isEmpty()) {
-            password.setError("Field Cannot be empty!");
+            password.setError(getString(R.string.empty));
             return false;
         } else if (!PASSWORD_PATERN.matcher(_password).matches()) {
-            password.setError("Password To Weak!");
+            password.setError(getString(R.string.weakpass));
             return false;
         } else
             password.setError(null);

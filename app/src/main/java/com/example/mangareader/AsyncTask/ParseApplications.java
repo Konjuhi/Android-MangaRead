@@ -69,7 +69,7 @@ public class ParseApplications {
                         break;
 
                     default:
-                        // Nothing else to do.
+                        // Nothing
                 }
                 eventType = xpp.next();
             }

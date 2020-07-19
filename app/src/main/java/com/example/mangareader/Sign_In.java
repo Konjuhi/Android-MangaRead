@@ -78,7 +78,7 @@ public class Sign_In extends AppCompatActivity {
                         if (c.getString(2).equals(memail.getText().toString().trim().toUpperCase())
                                 && c.getString(3).equals(mpassword.getText().toString().trim().toUpperCase())) {
 
-                            StyleableToast.makeText(getApplicationContext(), "Successfully Sign In", R.style.exampleToast).show();
+                            StyleableToast.makeText(getApplicationContext(), getString(R.string.succes), R.style.exampleToast).show();
                             intent = new Intent(Sign_In.this, MainActivity.class);
                             startActivity(intent);
                             check = true;
@@ -87,15 +87,15 @@ public class Sign_In extends AppCompatActivity {
                     }
 
                     if (memail.getText().toString().trim().isEmpty()) {
-                        memail.setError("This field cannot be empty");
+                        memail.setError(getString(R.string.empty));
                     }
 
                     else if (mpassword.getText().toString().trim().isEmpty()) {
-                        mpassword.setError("This field cannot be empty");
+                        mpassword.setError(getString(R.string.empty));
                     }
 
                     else if (!check) {
-                        StyleableToast.makeText(getApplicationContext(), "Password or Email is Wrong", R.style.exampleToastError).show();
+                        StyleableToast.makeText(getApplicationContext(), getString(R.string.pewrong), R.style.exampleToastError).show();
                         memail.setError(null);
                         mpassword.setError(null);
                     }

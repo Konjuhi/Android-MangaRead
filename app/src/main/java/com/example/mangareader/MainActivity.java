@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity implements  IMangaLoadDone {
     //Listener
     IMangaLoadDone mangaListener;
 
-   // AlertDialog alertDialog;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity implements  IMangaLoadDone {
         rootLayout = (CoordinatorLayout)findViewById(R.id.rootLayout);
         txt_manga= (TextView)findViewById(R.id.txt_manga);
 
-        manga = FirebaseDatabase.getInstance().getReference("Manga");
+        manga = FirebaseDatabase.getInstance().getReference(getString(R.string.mangaref));
 
         mangaListener = this;
 
@@ -72,12 +72,12 @@ public class MainActivity extends AppCompatActivity implements  IMangaLoadDone {
         txt_manga.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Snackbar.make(rootLayout, "All NEW MANGA'S IN THIS PAGE", Snackbar.LENGTH_INDEFINITE)
+                Snackbar.make(rootLayout, R.string.allmanga, Snackbar.LENGTH_INDEFINITE)
                   .setAction("Action",
                         new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                StyleableToast.makeText(getApplicationContext(), "Snackbar action clicked", R.style.exampleToast).show();
+                                StyleableToast.makeText(getApplicationContext(), getString(R.string.snackbar), R.style.exampleToast).show();
                             }
                         }).show();
             }
@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity implements  IMangaLoadDone {
        // Static.mangaList = mangaList;
         recyclerView_manga.setAdapter(new MyMangaAdapter(this,mangaList));
 
-        txt_manga.setText(new StringBuilder("NEW MANGA(")
+        txt_manga.setText(new StringBuilder(getString(R.string.newmanga))
         .append(mangaList.size())
                 .append(")"));
 

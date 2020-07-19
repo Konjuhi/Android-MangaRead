@@ -85,7 +85,7 @@ public class AsynTask extends AppCompatActivity {
                 BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 
                 int charsRead;
-                char[] inputBuffer = new char[50];
+                char[] inputBuffer = new char[500];
                 while (true) {
                     charsRead = reader.read(inputBuffer);
                     if (charsRead < 0) {

@@ -5,12 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="250dp">
 
-    <androidx.cardview.widget.CardView
+  <androidx.cardview.widget.CardView
         app:cardCornerRadius="2dp"
         android:layout_width="match_parent"
         android:layout_height="250dp">
-        
-        <FrameLayout
+
+    <FrameLayout
             android:background="@color/colorGradient2"
             android:layout_width="match_parent"
             android:layout_height="match_parent">

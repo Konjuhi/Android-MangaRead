@@ -36,7 +36,7 @@ public class ChaptersActivity extends AppCompatActivity {
         layoutManager = new LinearLayoutManager(this);
         //recycler_chapter.setLayoutManager(new LinearLayoutManager(this));
         recycler_chapter.setLayoutManager(layoutManager);
-        recycler_chapter.addItemDecoration(new DividerItemDecoration(this, layoutManager.getOrientation()));
+
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         //toolbar.setTitleTextColor(Color.WHITE);
@@ -60,6 +60,6 @@ public class ChaptersActivity extends AppCompatActivity {
     {
         Static.chapterList = mangaSelected.getChapters();
         recycler_chapter.setAdapter(new MyChapterAdapter(this, mangaSelected.getChapters()));
-        txt_chapter_name.setText(new StringBuilder("CHAPTERS (").append(mangaSelected.getChapters().size()).append(")"));
+        txt_chapter_name.setText(new StringBuilder(getString(R.string.chapter)).append(mangaSelected.getChapters().size()).append(")"));
     }
 }

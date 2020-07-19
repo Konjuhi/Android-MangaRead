@@ -39,12 +39,13 @@ public class MyMangaAdapter extends RecyclerView.Adapter<MyMangaAdapter.MyViewHo
     public MyViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View itemView = inflater.inflate(R.layout.manga_item, parent, false);
         return new MyViewHolder(itemView);
-    }
+}
 
     @Override
     public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
         Picasso.get().load(mangaList.get(position).getImage()).into(holder.image_manga);
         holder.manga_name.setText(mangaList.get(position).getName());
+
 
         //event
         holder.setRecyclerItemClickListener(new IRecyclerItemClickListener() {
