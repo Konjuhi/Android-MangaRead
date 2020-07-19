@@ -83,6 +83,7 @@ public class AlarmNotification extends AppCompatActivity {
                 Log.d("DEBUG","Alarm will wake at :" + timePicker.getHour() + ":"+timePicker.getMinute());
 
             }else{
+
                 Intent intent = new Intent(AlarmNotification.this,AlarmNotificationReceiver.class);
                 PendingIntent pendingIntent = PendingIntent.getBroadcast(this,0,intent,0);
                 AlarmManager manager = (AlarmManager)getSystemService(Context.ALARM_SERVICE);
