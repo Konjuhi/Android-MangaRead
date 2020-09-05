@@ -5,6 +5,11 @@ It is one of the simplest manga apps for Android who you can even use your alarm
 that it is time to read manga.
 
 
+
+
+
+
+
 ![Screenshot_1599315384](https://user-images.githubusercontent.com/44701013/92306970-614eb300-ef93-11ea-9d89-6afef8612c4d.png)
 ![Screenshot_1599315438](https://user-images.githubusercontent.com/44701013/92306973-61e74980-ef93-11ea-9ed2-99fd8a79dfd0.png)
 ![Screenshot_1599315447](https://user-images.githubusercontent.com/44701013/92306974-627fe000-ef93-11ea-9581-3885edb7580d.png)
