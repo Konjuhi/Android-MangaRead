@@ -14,5 +14,6 @@ that it is time to read manga.
 ![Screenshot_1599315500](https://user-images.githubusercontent.com/44701013/92306980-64e23a00-ef93-11ea-92b5-bd30b7d5814f.png)
 ![Screenshot_1599315527](https://user-images.githubusercontent.com/44701013/92306982-66abfd80-ef93-11ea-9986-e4a4f9669037.png)
 ![Screenshot_1599315516](https://user-images.githubusercontent.com/44701013/92306981-66136700-ef93-11ea-8fc3-53feb557f70c.png)
+![Screenshot_1599315544](https://user-images.githubusercontent.com/44701013/92307043-db7f3780-ef93-11ea-8a54-c01f31925c56.png)
 
 
