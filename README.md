@@ -6,7 +6,6 @@ that it is time to read manga.
 
 # Screenshots
 
-
 ![1](https://user-images.githubusercontent.com/44701013/110813799-22265500-8289-11eb-9e98-a607a2b49728.png)
 ![3](https://user-images.githubusercontent.com/44701013/110813810-23578200-8289-11eb-98cf-1c5bacb70c55.png)
 ![2](https://user-images.githubusercontent.com/44701013/110813813-23f01880-8289-11eb-8708-17f532d20a1c.png)
