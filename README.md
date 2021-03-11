@@ -4,16 +4,17 @@ It provides a full-screen reading mode and also lets you keep the screen awake w
 It is one of the simplest manga apps for Android who you can even use your alarm in manga app to let you know
 that it is time to read manga.
 
+#Screenshots
 
-![Screenshot_1599315384](https://user-images.githubusercontent.com/44701013/92306970-614eb300-ef93-11ea-9d89-6afef8612c4d.png)
-![Screenshot_1599315438](https://user-images.githubusercontent.com/44701013/92306973-61e74980-ef93-11ea-9ed2-99fd8a79dfd0.png)
-![Screenshot_1599315447](https://user-images.githubusercontent.com/44701013/92306974-627fe000-ef93-11ea-9581-3885edb7580d.png)
-![Screenshot_1599315471](https://user-images.githubusercontent.com/44701013/92306975-63187680-ef93-11ea-926d-2fc45b15a591.png)
-![Screenshot_1599315487](https://user-images.githubusercontent.com/44701013/92306978-6449a380-ef93-11ea-9391-9f86a1a4cc4b.png)
-![Screenshot_1599315495](https://user-images.githubusercontent.com/44701013/92306979-64e23a00-ef93-11ea-9a6d-2e2dd6b55749.png)
-![Screenshot_1599315500](https://user-images.githubusercontent.com/44701013/92306980-64e23a00-ef93-11ea-92b5-bd30b7d5814f.png)
-![Screenshot_1599315527](https://user-images.githubusercontent.com/44701013/92306982-66abfd80-ef93-11ea-9986-e4a4f9669037.png)
-![Screenshot_1599315516](https://user-images.githubusercontent.com/44701013/92306981-66136700-ef93-11ea-8fc3-53feb557f70c.png)
-![Screenshot_1599315544](https://user-images.githubusercontent.com/44701013/92307043-db7f3780-ef93-11ea-8a54-c01f31925c56.png)
+![1](https://user-images.githubusercontent.com/44701013/110805029-074fe280-8281-11eb-81ce-c6396066d3d2.png)
+![2](https://user-images.githubusercontent.com/44701013/110805033-08810f80-8281-11eb-9a01-f5ca54f076cb.png)
+![3](https://user-images.githubusercontent.com/44701013/110805037-0919a600-8281-11eb-9ecd-9fcbd4f1b8f5.png)
+![4](https://user-images.githubusercontent.com/44701013/110805042-0919a600-8281-11eb-80f8-23af27e53a4c.png)
+![5](https://user-images.githubusercontent.com/44701013/110805053-0a4ad300-8281-11eb-86d9-6b5284062941.png)
+![6](https://user-images.githubusercontent.com/44701013/110805057-0ae36980-8281-11eb-9ce2-8869c99a7e32.png)
+![7](https://user-images.githubusercontent.com/44701013/110805059-0b7c0000-8281-11eb-9c6d-cc43b9acd9f6.png)
+![8](https://user-images.githubusercontent.com/44701013/110805067-0c149680-8281-11eb-8c09-87e2982b9c36.png)
+![9](https://user-images.githubusercontent.com/44701013/110805070-0cad2d00-8281-11eb-9ea2-0ac500673d05.png)
+![10](https://user-images.githubusercontent.com/44701013/110805076-0dde5a00-8281-11eb-830d-ae73be8c638f.png)
 
 
