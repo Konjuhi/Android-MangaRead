@@ -4,7 +4,7 @@ It provides a full-screen reading mode and also lets you keep the screen awake w
 It is one of the simplest manga apps for Android who you can even use your alarm in manga app to let you know
 that it is time to read manga.
 
-#Screenshots
+# Screenshots
 
 ![1](https://user-images.githubusercontent.com/44701013/110805029-074fe280-8281-11eb-81ce-c6396066d3d2.png)
 ![2](https://user-images.githubusercontent.com/44701013/110805033-08810f80-8281-11eb-9a01-f5ca54f076cb.png)
