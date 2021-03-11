@@ -7,16 +7,17 @@ that it is time to read manga.
 # Screenshots
 
 
-![1](https://user-images.githubusercontent.com/44701013/110805765-b12f6f00-8281-11eb-8631-fa783bfecb97.png)
-![2](https://user-images.githubusercontent.com/44701013/110805775-b2609c00-8281-11eb-812e-cccf179ae92f.png)
-![3](https://user-images.githubusercontent.com/44701013/110805779-b391c900-8281-11eb-91eb-5d8b693bb7c3.png)
-![4](https://user-images.githubusercontent.com/44701013/110805784-b42a5f80-8281-11eb-994c-f5108d818435.png)
-![5](https://user-images.githubusercontent.com/44701013/110805790-b55b8c80-8281-11eb-8324-9b9764bbbf8d.png)
-![6](https://user-images.githubusercontent.com/44701013/110805795-b5f42300-8281-11eb-80f3-53eec5447fda.png)
-![7](https://user-images.githubusercontent.com/44701013/110805797-b68cb980-8281-11eb-855b-904c451dfdf9.png)
-![8](https://user-images.githubusercontent.com/44701013/110805805-b7bde680-8281-11eb-9b82-891254fc8bc7.png)
-![9](https://user-images.githubusercontent.com/44701013/110805807-b8567d00-8281-11eb-9229-d9211930b101.png)
-![10](https://user-images.githubusercontent.com/44701013/110805814-ba204080-8281-11eb-8049-457de203c202.png)
+![1](https://user-images.githubusercontent.com/44701013/110813799-22265500-8289-11eb-9e98-a607a2b49728.png)
+![3](https://user-images.githubusercontent.com/44701013/110813810-23578200-8289-11eb-98cf-1c5bacb70c55.png)
+![2](https://user-images.githubusercontent.com/44701013/110813813-23f01880-8289-11eb-8708-17f532d20a1c.png)
+![4](https://user-images.githubusercontent.com/44701013/110813816-2488af00-8289-11eb-93b0-a5ae6ae0a4a5.png)
+![5](https://user-images.githubusercontent.com/44701013/110813822-25b9dc00-8289-11eb-8cac-0ccdc5310369.png)
+![6](https://user-images.githubusercontent.com/44701013/110813826-26527280-8289-11eb-90de-2a47fac8d6e7.png)
+![7](https://user-images.githubusercontent.com/44701013/110813827-26527280-8289-11eb-9d2b-aa1ff816d514.png)
+![8](https://user-images.githubusercontent.com/44701013/110813832-27839f80-8289-11eb-8a65-c50cfcf1efab.png)
+![9](https://user-images.githubusercontent.com/44701013/110813833-27839f80-8289-11eb-942e-6fb96fdb47ae.png)
+![10](https://user-images.githubusercontent.com/44701013/110813838-28b4cc80-8289-11eb-92ce-6e5182f704af.png)
+
 
 
 
